@@ -1,3 +1,3 @@
 package deptestglideB
 
-type FooVersion1 int
+type FooVersion2 int
