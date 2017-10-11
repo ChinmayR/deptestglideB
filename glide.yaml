@@ -1,4 +1,3 @@
 package: github.com/ChinmayR/deptestglideB
 import:
 - package: github.com/ChinmayR/deptestglideC
-  version: "v0.2.0"
