@@ -1,3 +1,5 @@
 package deptestglideB
 
-type FooVersion2 int
+import "github.com/ChinmayR/deptestglideC"
+
+type Cversion2 deptestglideC.BarVersion2
