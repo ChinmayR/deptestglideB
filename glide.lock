@@ -1,4 +1,6 @@
 hash: 18665ae168eb1a7ff719278232dce4c0a6e890b2d640d0f2c5116004e395ff8a
 updated: 2017-10-11T15:28:12.43829853-07:00
-imports: []
+imports:
+- name: github.com/ChinmayR/deptestglideC
+  version: 4d3546304e8a1ceb6bb01e7e6201e852abb8ae4d
 testImports: []

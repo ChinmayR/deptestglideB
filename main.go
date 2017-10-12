@@ -2,4 +2,4 @@ package deptestglideB
 
 import "github.com/ChinmayR/deptestglideC"
 
-type CversionAny deptestglideC.CommonVar
+type Cversion1 deptestglideC.BarVersion1
